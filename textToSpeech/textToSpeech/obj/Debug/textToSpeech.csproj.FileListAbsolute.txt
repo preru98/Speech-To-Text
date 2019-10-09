@@ -1,0 +1,9 @@
+E:\MCA JIMS\Practical\C#\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe.config
+E:\MCA JIMS\Practical\C#\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe
+E:\MCA JIMS\Practical\C#\textToSpeech\textToSpeech\bin\Debug\textToSpeech.pdb
+E:\MCA JIMS\Practical\C#\textToSpeech\textToSpeech\obj\Debug\textToSpeech.csprojResolveAssemblyReference.cache
+E:\MCA JIMS\Practical\C#\textToSpeech\textToSpeech\obj\Debug\textToSpeech.exe
+E:\MCA JIMS\Practical\C#\textToSpeech\textToSpeech\obj\Debug\textToSpeech.pdb
+E:\textToSpeechC#Project\textToSpeech\textToSpeech\bin\Debug\textToSpeech.exe.config
+E:\textToSpeechC#Project\textToSpeech\textToSpeech\obj\Debug\textToSpeech.exe
+E:\textToSpeechC#Project\textToSpeech\textToSpeech\obj\Debug\textToSpeech.pdb
