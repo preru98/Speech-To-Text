@@ -1,0 +1,6 @@
+E:\textToSpeechC#Project\outputSpeech\outputSpeech\bin\Debug\outputSpeech.exe.config
+E:\textToSpeechC#Project\outputSpeech\outputSpeech\bin\Debug\outputSpeech.exe
+E:\textToSpeechC#Project\outputSpeech\outputSpeech\bin\Debug\outputSpeech.pdb
+E:\textToSpeechC#Project\outputSpeech\outputSpeech\obj\Debug\outputSpeech.csprojResolveAssemblyReference.cache
+E:\textToSpeechC#Project\outputSpeech\outputSpeech\obj\Debug\outputSpeech.exe
+E:\textToSpeechC#Project\outputSpeech\outputSpeech\obj\Debug\outputSpeech.pdb
