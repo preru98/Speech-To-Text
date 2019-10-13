@@ -1,0 +1,9 @@
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\bin\Debug\textToSpeechWFA.exe.config
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\obj\Debug\textToSpeechWFA.csprojResolveAssemblyReference.cache
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\obj\Debug\textToSpeechWFA.Form1.resources
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\obj\Debug\textToSpeechWFA.Properties.Resources.resources
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\obj\Debug\textToSpeechWFA.csproj.GenerateResource.Cache
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\bin\Debug\textToSpeechWFA.exe
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\bin\Debug\textToSpeechWFA.pdb
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\obj\Debug\textToSpeechWFA.exe
+E:\textToSpeechC#Project\textToSpeechWFA\textToSpeechWFA\obj\Debug\textToSpeechWFA.pdb
